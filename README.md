@@ -279,37 +279,9 @@ Full docs: **https://code.claude.com/docs/en/installation**
 
 ---
 
-## 📁 Repository Structure
-
-```
-claude-code-install-guide/
-├── README.md                  # This file
-├── LICENSE                    # MIT license
-├── .gitignore
-└── scripts/
-    ├── install-linux.sh       # Linux/WSL install helper
-    └── install-windows.ps1    # Windows PowerShell install helper
-```
-
 ---
 
-## 🚀 Pushing This to GitHub
-
-```bash
-cd claude-code-install-guide
-git init
-git add .
-git commit -m "Initial commit: Claude Code install guide"
-git branch -M main
-git remote add origin https://github.com/<your-username>/<your-repo>.git
-git push -u origin main
-```
-
 ---
-
-## 📄 License
-
-Distributed under the [MIT License](LICENSE).
 
 ## 🙏 Credits
 
