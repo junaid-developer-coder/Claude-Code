@@ -1,4 +1,4 @@
-<img src="assets/20260919_070422.png" alt="Claude Code" width="200">
+  <img src="assets/20260919_070422.png" alt="Claude Code" width="400">
 
 
 <div align="center">
