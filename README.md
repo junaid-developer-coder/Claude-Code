@@ -1,3 +1,6 @@
+<img src="assets/screenshot.png" alt="Description of image" width="600">
+
+
 <div align="center">
 
 # 🤖 Claude Code — Installation Guide
